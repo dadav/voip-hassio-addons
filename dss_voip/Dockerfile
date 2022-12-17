@@ -21,7 +21,7 @@ RUN apk add --no-cache \
     pjsua \
     screen \
     bc
-    
+
 # Build arguments
 ARG BUILD_ARCH
 ARG BUILD_DATE
